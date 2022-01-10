@@ -1,0 +1,19 @@
+.album-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 20px;
+  padding: 8px 5px;
+  border: 2px soild lightgray;
+  border-radius: 5px;
+  background-color: #f0eeee;
+  box-shadow: 0 3px 6px rgba(73, 70, 70, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  width: 120px;
+  height: 200px;
+  list-style-type: none;
+}
+
+.album-name {
+  justify-content: center;
+}
